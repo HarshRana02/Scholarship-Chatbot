@@ -36,9 +36,7 @@ pip install -r requirements.txt
 </pre>
 
 ### 3. Add Data
-<pre>
-Place your Excel or CSV file in the **data/** folder
-</pre>
+Place your Excel or CSV file in the **data/** folder.
 
 ### 4. Preprocess & Embed
 <pre>
